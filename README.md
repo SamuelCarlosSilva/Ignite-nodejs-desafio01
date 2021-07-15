@@ -124,7 +124,7 @@ Para completar todos os testes referentes à *todos* é necessário antes ter co
 
 **Observação:** O username deve ser enviado pelo header em uma propriedade chamada `username`:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c538c34-498a-4789-9bb4-0f286d9b2cf2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c538c34-498a-4789-9bb4-0f286d9b2cf2/Untitled.png)
+
 
 - **Should be able to list all user's todos**
 
