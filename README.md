@@ -1,4 +1,4 @@
-Bootcamp Ignite trilha Nodejs - Desafio 01: Conceitos do Node.js
+Bootcamp Ignite trilha Nodejs - Desafio 01: Conceitos do Node.js - Rocketseat🚀
 
 # 💻 Sobre o desafio
 
@@ -11,6 +11,9 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). S
 - Alterar o `title` e `deadline` de um *todo* existente;
 - Marcar um *todo* como feito;
 - Excluir um *todo*;
+
+Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
+
 
 ## Rotas da aplicação
 
@@ -174,10 +177,5 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
 	error: 'Mensagem do erro'
 }
 ```
-
-
-
-
-
 
 
